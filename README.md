@@ -6,10 +6,10 @@ Elas são compostas por camadas de neurônios artificiais, onde cada neurônio r
 
 ### Por que RNAs são eficazes?
 
-- Aprendem **relações complexas não lineares**
+- Aprendem **relações complexas não-lineares**
 - Adaptam-se a qualquer tipo de dado (numérico, categórico, normalizado)
 - Podem ser otimizadas com **múltiplas camadas, regularização e validação cruzada**
-- Aplicáveis a diversas áreas: saúde, finanças, indústria, etc.
+- Aplicáveis a diversas áreas: saúde, finanças, indústria etc.
 
 ### Funcionamento Intuitivo
 
